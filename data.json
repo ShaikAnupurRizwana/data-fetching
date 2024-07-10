@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Molaka Guru Naga Jyothi",
+      "email": "gurunagajyothi7@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Shaik Anupur Rizwana",
+      "email": "shaikanupurrizwana@gmail.com"
+    }
+  ]
+}
